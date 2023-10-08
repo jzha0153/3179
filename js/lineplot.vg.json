@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/lineplotdata.csv"
+      "url": "https://jzha0153.github.io/FIT3179/data/lineplotdata.csv"
     },
     "title": "Subscribed People by Month and Personal Loan",
     "width": 400,
