@@ -4,14 +4,14 @@
   "height": 300,
   "title": "Region Map for People Not-Subscribed",
   "data": {
-    "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_small.csv"
+    "url": "https://jzha0153.github.io/FIT3179/data/A2_small.csv"
   },
   "transform": [
     {
       "lookup": "state",
       "from": {
         "data": {
-          "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/js/states.json",
+          "url": "https://jzha0153.github.io/FIT3179/js/states.json",
           "format": {"type": "topojson", "feature": "states"}
         },
         "key": "properties.STATE_NAME"
