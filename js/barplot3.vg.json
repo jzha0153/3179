@@ -4,7 +4,7 @@
     "height": 300,
     "title": "Desired Target by Housing",
     "data": {
-        "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_small.csv"
+        "url": "https://jzha0153.github.io/FIT3179/data/A2_small.csv"
     },
     "selection": {
         "stateFilter": {
